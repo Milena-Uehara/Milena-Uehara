@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">My name is Milena from Sao Paulo, Brazil<br><br>🔭 I’m currently working as a Site Reliability Engineer.<br></p>
+<p align="center">🇧🇷 My name is Milena from Sao Paulo, Brazil <br><br>🔭 I’m currently working as a Site Reliability Engineer <br></p>
 
 ###
 

@@ -4,11 +4,11 @@
 
 ###
 
-<p align="left">My name is Milena from Sao Paulo, Brazil<br><br>🔭 I’m currently working as a Site Reliability Engineer.<br></p>
+<p align="center">My name is Milena from Sao Paulo, Brazil<br><br>🔭 I’m currently working as a Site Reliability Engineer.<br></p>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/milenauehara" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="35" alt="linkedin logo"  />
   </a>
